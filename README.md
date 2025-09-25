@@ -23,6 +23,7 @@ Backtracking is a **depth-first search (DFS)** technique that tries to build a v
 - Continue until all queens are placed or all possibilities are exhausted.  
 
 This guarantees finding a solution if one exists.  
+![Image](https://github.com/user-attachments/assets/5b991109-9660-4874-835c-2e5639a0f535)
 
 ---
 
