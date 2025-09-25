@@ -37,3 +37,4 @@ A\* is a **best-first search algorithm** guided by a cost function:
 
 The algorithm expands states in order of increasing `f(n)` while pruning invalid moves early.  
 It explores only safe placements and stops when a full solution is found. 
+![Image](https://github.com/user-attachments/assets/7ea9132b-3e27-4040-8194-1bce91900485)
