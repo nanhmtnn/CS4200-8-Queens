@@ -6,13 +6,13 @@ It demonstrates two solving strategies: **Backtracking** and **A\* Search**.
 
 ---
 
-## 📖 The 8 Queens Puzzle  
+## The 8 Queens Puzzle  
 The challenge is to place 8 queens on a standard chessboard (8×8) so that no two queens threaten each other.  
 This means no two queens can share the same row, column, or diagonal.  
 
 ---
 
-## 🧮 Methods Implemented  
+## Methods Implemented  
 
 ### 1. Backtracking  
 Backtracking is a **depth-first search (DFS)** technique that tries to build a valid solution row by row:  
