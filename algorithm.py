@@ -111,12 +111,4 @@ class EightQueensSolver:
                     counter += 1
                     heapq.heappush(pq, (f2, g2, counter, new_tup))
 
-
-
-            # NOTE: we intentionally DO NOT yield a 'place' for neighbor pushes here.
-            # Only yield when a state is actually popped/expanded (above). This prevents
-            # the UI from showing many temporary candidate placements and avoids the
-            # "first row jumping back" flicker you observed.
-
-        # exhausted without finding a solution
         return
